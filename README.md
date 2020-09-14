@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi! I'm Vo Thanh Son 👋
 
-<img src="https://cdn.pixabay.com/photo/2018/07/26/07/45/valais-3562988_1280.jpg"/>
+<span style="text-align:center"><img src="http://soness.epizy.com/banner.jpg" alt="sonvt-fe"/></span>
 <!--
 **sonvt-fe/sonvt-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
