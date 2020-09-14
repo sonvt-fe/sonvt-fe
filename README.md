@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+<img src="https://cdn.pixabay.com/photo/2018/07/26/07/45/valais-3562988_1280.jpg"/>
 <!--
 **sonvt-fe/sonvt-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
