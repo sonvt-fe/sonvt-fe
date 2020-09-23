@@ -1,6 +1,6 @@
 ### Hi! I'm Vo Thanh Son 👋
 #### Innovative Frontend Developer with 2 years experience building and maintaining responsive website in the business website field. Proficient in HTML, CSS, JavaScript, plus modern libraries and frameworks, usability and possess working knowledge of Adobe Photoshop.
-<p style="text-align: center;"><a style="margin: 0 auto; display: block;" href="http://sonvt.epizy.com/"><img src="https://raw.githubusercontent.com/sonvt-fe/sonvt-fe/master/banner.jpg" width="720px" alt="sonvt-fe"/></a></p>
+<center><a href="http://sonvt.epizy.com/"><img src="https://raw.githubusercontent.com/sonvt-fe/sonvt-fe/master/banner.jpg" width="720px" alt="sonvt-fe"/></a></center>
 <ul>
   <li>Open and friendly.</li>
   <li>Love to learn new things, especially things related to Frontend stacks.</li>
