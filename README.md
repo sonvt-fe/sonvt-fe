@@ -1,5 +1,5 @@
 ### Hi! I'm Vo Thanh Son 👋
-### Innovative Frontend Developer with 2 years experience building and maintaining responsive website in the business website field. Proficient in HTML, CSS, JavaScript, plus modern libraries and frameworks, usability and possess working knowledge of Adobe Photoshop.
+## Innovative Frontend Developer with 2 years experience building and maintaining responsive website in the business website field. Proficient in HTML, CSS, JavaScript, plus modern libraries and frameworks, usability and possess working knowledge of Adobe Photoshop.
 <a href="https://leetcode.com/vtson23597/"><span style="text-align:center"><img src="https://raw.githubusercontent.com/sonvt-fe/sonvt-fe/master/banner.jpg" alt="sonvt-fe"/></span></a>
 <!--
 **sonvt-fe/sonvt-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
