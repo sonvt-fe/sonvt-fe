@@ -6,7 +6,7 @@
 <ul>
   <li>Open and friendly.</li>
   <li>Love to learn new things, especially things related to Frontend stacks.</li>
-  <li>Enjoy working with HTML/CSS, JS</li>
+  <li>Enjoy working with Javascript</li>
 </ul>
 <!--
 **sonvt-fe/sonvt-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
